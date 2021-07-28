@@ -5,7 +5,7 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <Header title='ELSNER Test' />
+        <Header title='Blog Page' />
         <div className="post-wrapper">
           <p>This is the home page.</p>
         </div>
